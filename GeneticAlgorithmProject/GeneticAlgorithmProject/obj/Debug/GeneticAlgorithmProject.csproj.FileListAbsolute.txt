@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\bin\Debug\GeneticAlgorithmProject.exe.config
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\bin\Debug\GeneticAlgorithmProject.exe
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\bin\Debug\GeneticAlgorithmProject.pdb
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.Properties.Resources.resources
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.exe
+C:\Users\User\source\repos\GeneticAlgorithmProject\GeneticAlgorithmProject\obj\Debug\GeneticAlgorithmProject.pdb
