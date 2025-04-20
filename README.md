@@ -32,7 +32,6 @@ Kullanıcının aşağıdaki parametreleri arayüz üzerinden girebilmesi sağla
 En iyi çözümün parametre değerleri ve amaç fonksiyonu değeri kullanıcıya gösterilir.
 Jenerasyonlara bağlı olarak yakınsama (convergence) grafiği çizdirilir.
 
-Kodlama Nesne Yönelimli Programlama (OOP) prensiplerine uygun olarak yapılandırılmıştır.
 
 
 
