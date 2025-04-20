@@ -13,7 +13,9 @@ Genetik Algoritma Aşamaları:
 - Sonuçların görselleştirilmesi
 
 🔢 Test Problemi:
+
 ![image](https://github.com/user-attachments/assets/10928279-78ff-4239-87ed-c094a7c028dd)
+
 Problem türü: Sürekli optimizasyon & minimizasyon problemi
 Kodlama türü: Reel kodlama 
 
